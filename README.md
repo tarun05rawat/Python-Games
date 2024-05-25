@@ -1,2 +1,1 @@
-This is a repo of small Python games I made to practice my skills. I am going to work on making these more technically complex and embedding AI.
-
+This is a repo of Python mini-projects I made for fun and practice. I am currently making these more technically complex by learning AI, ML and a little bit of Computer Networking.
